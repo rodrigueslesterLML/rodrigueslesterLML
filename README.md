@@ -1,4 +1,13 @@
 ### Hi there 👋
+### I'm Lester Rodrigues , pursuing CSE at MU
+
+- 🔭 I’m currently working on DevOps tools
+- 💬 Ask me about web development, algorithms,Data Structures, JavaScript, C,C++,Databases and Python.
+- 📫 Connect with me @ [Linkedin.com/lester-rodrigues-2001](https://www.linkedin.com/in/lester-rodrigues-2001/)
+
+<img src="https://github-readme-stats.vercel.app/api?username=rodrigueslesterLML&theme=algolia&show_icons=true&count_private=true&include_all_commits=true&hide=stars" alt="Lester Rodrigues" />
+
+
 
 <!--
 **rodrigueslesterLML/rodrigueslesterLML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
