@@ -5,6 +5,7 @@
 - 💬 Ask me about web development, algorithms,Data Structures, JavaScript, C,C++,Databases and Python.
 - 📫 Connect with me @ [Linkedin.com/lester-rodrigues-2001](https://www.linkedin.com/in/lester-rodrigues-2001/)
 
+![Lester Rodrigues' Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigueslesterLML&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=bfbfbf&bg_color=151515)
 <img src="https://github-readme-stats.vercel.app/api?username=rodrigueslesterLML&theme=algolia&show_icons=true&count_private=true&include_all_commits=true&hide=stars" alt="Lester Rodrigues" />
 
 
